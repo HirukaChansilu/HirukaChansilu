@@ -1,8 +1,35 @@
-- 👋 Hi, I’m @HirukaChansilu
-- 👀 I’m interested in Python, Arduino, Web Development
-- 🌱 I’m currently learning Web Development
+# What's Up!
 
-<!---
-HirukaChansilu/HirukaChansilu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I'm,
+
+**Hiruka Chansilu** 🙋‍♂️
+
+---
+
+<br />
+
+> A Student🖊️
+
+- Currently in Grade 11
+- Of Royal College Colombo 07
+
+> A Robitics Hobbiest🤖
+
+- I have made some interesting projects
+- Arduino and NodeMCU
+
+> A Web Developer🧑‍💻
+
+- Still Learning...
+
+> UI / UX Designer✒️
+
+<br />
+
+### Contact ME
+
+---
+
+- [Whatsapp](https://wa.me/qr/RKDKFKPMUHAOA1)
+- [Instagram](https://www.instagram.com/hiruka_chansilu/)
+- Discord (Hiruka_Chansilu#7169)
