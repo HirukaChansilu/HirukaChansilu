@@ -11,7 +11,7 @@
 > A Student🖊️
 
 - Currently in Grade 11
-- Of Royal College Colombo 07
+- Royal College Colombo 07
 
 > A Robitics Hobbiest🤖
 
