@@ -17,11 +17,8 @@
 
 - Currently in Grade 11
 - Royal College Colombo 07
-<<<<<<< HEAD
 
 <br />
-=======
->>>>>>> 08f76d56495ea7f74c269925c1f372ab4e26419b
 
 > A Robitics Hobbiest🤖
 
