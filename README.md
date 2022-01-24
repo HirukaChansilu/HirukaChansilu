@@ -55,6 +55,6 @@
 
 - [Whatsapp](https://wa.me/qr/RKDKFKPMUHAOA1)
 - [Instagram](https://www.instagram.com/hiruka_chansilu/)
-- Discord (Hiruka_Chansilu#7169)
+- [Discord](https://discordapp.com/users/781518878365843486)
 
 <p><img align="right" src="./Elements.png" alt="cat shake head"></p>
