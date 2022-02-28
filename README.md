@@ -29,8 +29,6 @@
 
 > A Web Developer🧑‍💻
 
-- Still Learning btw
-
 <br />
 
 > An UI / UX Designer✒️
